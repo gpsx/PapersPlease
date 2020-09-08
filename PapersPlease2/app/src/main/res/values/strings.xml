@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PapersPlease</string>
+    <string name="title">ARSTOTZKA</string>
+    <string name="subtitle">Credenciais por favor</string>
+    <string name="nameLabel">A credencial para entrada a Nação Unida de Sovereign será concedida para:</string>
+    <string name="passportLabel">Número do passaporte:</string>
+    <string name="purposeLabel">Motivo:</string>
+    <string name="durationLabel">Tempo de Estadia (meses):</string>
+    <string name="confirmationButton">Analizar dados</string>
+</resources>
